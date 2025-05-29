@@ -49,8 +49,10 @@ The **Prostokąt DuoColor Class Demo**, developed by Adrian Lesniak, is a C++ co
 
 The program produces direct console output based on the `show()` method.
 
-**Example Console Output (assuming Polish output):**
-## 🖼️ Screenshots (Conceptual Output)
+<p align="center">
+  <img src="screenshots\1.jpg" width="600"/>
+</p>
+
 
 The program produces direct console output based on the `show()` method.
 
